@@ -1,0 +1,18 @@
++ dodawanie 2+3=>5
+- odejmownie  25-5=>20
+* mnożenie3*4=>12
+/ dzielenie 8/2=>3.5
+% reszta z dzielenia  7%3=>1
+// dzielenie całkowitec 7//2=>3
+**potęgowanie
+== równość
+!= nierówność
+> większe niż
+< mniejsze vniź
+>= większe lub równe
+<= mniejsze lub równe
+and operator logiczny "i"
+or operator logiczny "lub"
+not operator logiczny "nie"
+in operator zawierania w sekfencji
+is operator identycznośi
